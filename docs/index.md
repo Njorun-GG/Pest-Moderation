@@ -5,7 +5,7 @@ Find, Control, Kill those pests.
 <br><br>
 ## Commands
 ### Basic Commands
-p%help - Brings you to this,<br>
+<b>p%help<b> - <u>Brings you to this<u>,<br>
 p%updates - Shows what updates are in planning,<br>
 p%about - About this bot.<br>
 
