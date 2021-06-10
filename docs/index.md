@@ -1,3 +1,5 @@
+![Pest Moderation Logo](https://cdn.discordapp.com/icons/851106606028685312/ecfc4c682d22d44fffd280fe319e602d.webp?size=128)
+
 # Pest Moderation
 
 Find, Control, Kill those pests.
@@ -5,33 +7,33 @@ Find, Control, Kill those pests.
 <br><br>
 ## Commands
 ### Basic Commands
-<b>p%help<b> - <u>Brings you to this<u>,<br>
-p%updates - Shows what updates are in planning,<br>
-p%about - About this bot.<br>
+**p%help** - _Brings you to this_.<br>
+**p%updates** - _Shows what updates are in planning_.<br>
+**p%about** - _About this bot._<br>
 
 ### Music Playback
-p%youtube [YouTube Link] - Has to be a youtube.com/#### or youtu.be/### Link<br>
+**p%youtube [YouTube Link]** - Has to be a youtube.com/#### or youtu.be/### Link<br>
 (It will play just fine as long as you give it those)<br>
 <br>
-p%stop - Stops the music and clears the queue<br>
-p%pause - Pauses what's playing<br>
-p%resume - Continues Playing what was paused.<br>
-p%volume - Set's the volume 0 - 100.<br>
-p%search - Search a keyword and play the keyword song/playlist.<br>
-p%shuffle - Shuffle the entire queue.<br>
-p%loop - Loop entire queue.<br>
-p%no_loop - Disables Loop<br>
+**p%stop** - _Stops the music and clears the queue_<br>
+**p%pause** - _Pauses what's playing_<br>
+**p%resume** - _Continues Playing what was paused._<br>
+**p%volume** - _Set's the volume 0 - 100._<br>
+**p%search** - _Search a keyword and play the keyword song/playlist._<br>
+**p%shuffle** - _Shuffle the entire queue._<br>
+**p%loop** - _Loop entire queue._<br>
+**p%no_loop** - _Disables Loop_<br>
 
 ### Moderation
-p%whois [Mentioned User] - Gives you who is info like account creation,<br>
-p%kick [Mentioned User] - Kicks the person that you mention,<br>
-p%ban [Mentioned User] - Bans the person that you mention and deletes as many messages as the bot can.<br>
+**p%whois [Mentioned User]** - _Gives you who is info like account creation,_<br>
+**p%kick [Mentioned User]** - _Kicks the person that you mention,_<br>
+**p%ban [Mentioned User]** - _Bans the person that you mention and deletes as many messages as the bot can._<br>
 
 ### Bot Owner only
-p%watchdog - Shows who joined the server and a lot more logging,<br>
-p%disable_watchdog - Stops logging,<br>
-p%debug - Sends you the server information,<br>
-p%deb_audio - Tests if the voice chat works.<br>
+**p%watchdog** - _Shows who joined the server and a lot more logging,_<br>
+**p%disable_watchdog** - _Stops logging,_<br>
+**p%debug** - _Sends you the server information,_<br>
+**p%deb_audio** - _Tests if the voice chat works._<br>
 
 
 <br><br>
