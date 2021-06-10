@@ -23,14 +23,14 @@ Find, Control, Kill those pests.
 **p%shuffle** - _Shuffle the entire queue._<br>
 **p%loop** - _Loop entire queue._<br>
 **p%no_loop** - _Disables Loop_<br>
-**p%skip [Number or No Number]** - _Allows you to skip the current song or multiple in the queue_
+**p%skip [Number or No Number]** - _Allows you to skip the current song or multiple in the queue_<br>
 
 ### Moderation
 **p%whois [Mentioned User]** - _Gives you who is info like account creation,_<br>
 **p%kick [Mentioned User]** - _Kicks the person that you mention,_<br>
 **p%ban [Mentioned User]** - _Bans the person that you mention and deletes as many messages as the bot can._<br>
-**p%gag [Mentioned User]** - _Gags the user of your choosing_
-**p%ungag [Mentioned User]** - _Removes the gags of that user_
+**p%gag [Mentioned User]** - _Gags the user of your choosing_<br>
+**p%ungag [Mentioned User]** - _Removes the gags of that user_<br>
 
 ### Bot Owner only
 **p%watchdog** - _Shows who joined the server and a lot more logging,_<br>
